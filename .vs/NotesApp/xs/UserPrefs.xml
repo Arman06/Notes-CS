@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{BFD6D432-8C30-4049-964F-3505404647B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.View FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ViewController FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataService.cs">
+    <Files>
+      <File FileName="Main.storyboard" />
+      <File FileName="CollectionGridFlowLayout.cs" />
+      <File FileName="NotesCollectionViewDataSource.cs" />
+      <File FileName="SceneDelegate.cs" />
+      <File FileName="Note.cs" />
+      <File FileName="DataService.cs" Line="29" Column="1" />
+      <File FileName="AppDelegate.cs" />
+      <File FileName="NotesCollectionViewDelegate.cs" />
+      <File FileName="Main.cs" />
+      <File FileName="Model/NoteCell.cs" />
+      <File FileName="ViewController/AddViewController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotesApp" expanded="True">
+            <Node name="NotesApp" expanded="True">
+              <Node name="DataService.cs" selected="True" />
+            </Node>
+            <Node name="View" expanded="True" />
+            <Node name="ViewController" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.NotesApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.659A75E0-3C3F-4E1C-9B58-419D3B23F07C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

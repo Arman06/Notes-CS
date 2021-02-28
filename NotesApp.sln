@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp", "NotesApp.csproj", "{BFD6D432-8C30-4049-964F-3505404647B3}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "View", "Model\View.shproj", "{EDA84101-0DD2-4E06-8893-98B0133E91A0}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ViewController", "ViewController\ViewController.shproj", "{46B6ED88-30E8-4A07-8522-2BB717EE94D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BFD6D432-8C30-4049-964F-3505404647B3}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
